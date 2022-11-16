@@ -1,0 +1,16 @@
+.landing {
+  justify-content: space-between;
+}
+
+h1,
+p,
+input {
+  text-align: justify;
+}
+.purple {
+  color: #a02279;
+}
+#purplebtn {
+  background-color: #a02279;
+  width: 10em;
+}

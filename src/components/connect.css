@@ -1,0 +1,50 @@
+.card-text {
+  word-spacing: 0em;
+}
+
+.card-img-top {
+  border-radius: 15px;
+  padding-left: 1.5em;
+  padding-top: 1em;
+  padding-right: 1.5em;
+}
+
+.pup {
+  padding-bottom: 1em;
+}
+.pop {
+  padding-top: 0.7em;
+}
+.card1 {
+  height: 372px;
+}
+.placeto-nav {
+  display: flex;
+  max-width: 1240px;
+  align-items: center;
+  margin: auto;
+  box-sizing: border-box;
+  gap: 110px;
+  margin-top: 110px;
+}
+
+.placeto-nav .text {
+  display: flex;
+  gap: 52px;
+  padding-top: 13px;
+  box-sizing: border-box;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 25px;
+  color: #434343;
+}
+.location-button {
+  background: linear-gradient(124.4deg, #ffffff 10.8%, #ffffff 87.34%);
+  border: 1px solid #b4b4b4;
+  border-radius: 8px;
+  width: 161px;
+  height: 48px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
